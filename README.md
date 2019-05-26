@@ -1,5 +1,10 @@
 # Take home exercise
 
+### My experience
+I thought it was a very good exercise for even though I had never seen spring and gradle before although I had hear of them. I managed to complete all the tests and functionality that you wanted but the code isn't fully right in task 2. There is a web page but it does not fully get a response from the sever as I did not understand how to do that very well. If there is some way of knowing how well I did and what was wrong about that would be very useful and I would be very grateful for that I have completed this exercise to the best of my ability. Thank you for taking the time to consider me for an internship in shutl. 
+
+### What you asked me to do
+
 For our tech test, we'd like you to take a stripped-down version of our quoting engine, and then add some features. This is a RESTful service endpoint that takes a few details and works out the price for a delivery.
 
 Throughout the test we're looking for great coding style, driving your code through tests (and refactoring) and at all times doing the bare minimum possible to get the job done. If you don't like the code or tests that are there already, feel free to refactor as you add features.

@@ -1,0 +1,63 @@
+.quoteForm form{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-ms-align-items: center;
+	align-items: center;
+	justify-content: left;
+	flex-direction: column;
+	text-align: right;
+	width: 50%;
+}
+
+.quoteForm{
+	display: flex;
+	width: 100vw;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+	-ms-align-items: center;
+	padding-left: 80px;
+}
+
+form div .form-control{
+	width: 300px;
+	margin-bottom: 25px;
+}
+
+form, .quoteForm .quoteInfo{
+	/*background-color: #CAFFC9;*/
+	border: 2px solid #85BE84;
+}
+
+.quoteForm .quoteInfo{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-ms-align-items: center;
+	align-items: center;
+	justify-content: left;
+	flex-direction: column;
+	text-align: right;
+	width: 383px;
+	height: 383px;
+	margin: 0 auto;
+}
+
+form div {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	flex-direction: column;
+	text-align: left;
+}
+
+.btn{
+	margin-bottom: 10px;
+}
